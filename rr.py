@@ -1,4 +1,4 @@
-print("Hello World ABCD")
+print("Hello World Rishav ABCD")
 
-for var in range(10):
+for var in range(9):
     print(var)
